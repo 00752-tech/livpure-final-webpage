@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Host
+Host: https://livpurereview2025.com
+
+# Sitemaps
+Sitemap: https://livpurereview2025.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 10
+
