@@ -9,9 +9,9 @@ const nextConfig = {
 
   
   experimental: {
-    optimizeCss: true,
+    optimizeCss: false,
     optimizePackageImports: ["lucide-react", "@radix-ui/react-icons", "framer-motion"],
-    scrollRestoration: true,
+    scrollRestoration: false,
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === "production",
