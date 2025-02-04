@@ -40,11 +40,10 @@ export default function HeroSection() {
             <div className="lg:w-[450px] mb-8 lg:mb-0 lg:pt-16">
               <div className="inline-block bg-gray-100 px-4 py-1 rounded-full text-sm mb-8">NATURAL LIVER SUPPORT</div>
               <h1 className="text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-                <span className="text-[#0095E1]">Break free</span> from sluggish weight & low energy
+                <span className="text-[#0095E1]">Liver Health Alert:</span> Are toxins silently killing your energy?
               </h1>
               <p className="text-gray-600 text-xl mb-8 max-w-[500px]">
-                Discover Livpure, the natural solution proven to detoxify your liver, ignite your metabolism, and unlock
-                sustainable weight loss
+                LivPure&#39;s proven all-natural solution helps detoxify rejuvenate and protect your liver for a healthier happier you.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button
